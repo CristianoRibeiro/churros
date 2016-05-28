@@ -26,7 +26,7 @@
                             <input type="text" class="form-control" title="No spam, we promise!" placeholder="Tell us your email">
                         </div>
                         <div class="form-group">
-                            <button class="btn btn-primary" data-toggle="modal" data-target="#alertModal" type="button">Subscribe for updates</button>
+                            <button class="btn btn-primary-outline" data-toggle="modal" data-target="#alertModal" type="button">Subscribe for updates</button>
                         </div>
                     </form>
                 </div>
@@ -35,10 +35,14 @@
                     <ul class="list-inline">
                         <li class="list-inline-item"><a rel="nofollow" href="" title="Twitter"><i class="icon-lg ion-social-twitter-outline"></i></a>&nbsp;</li>
                         <li class="list-inline-item"><a rel="nofollow" href="" title="Facebook"><i class="icon-lg ion-social-facebook-outline"></i></a></li>
+                        <li class="list-inline-item"><a rel="nofollow" href="" title="Facebook"><i class="icon-lg ion-social-instagram-outline"></i></a></li>
+                        <li class="list-inline-item"><a rel="nofollow" href="" title="Facebook"><i class="icon-lg ion-social-pinterest-outline"></i></a></li>
+                        <li class="list-inline-item"><a rel="nofollow" href="" title="Facebook"><i class="icon-lg ion-social-youtube-outline"></i></a></li>
+                        <li class="list-inline-item"><a rel="nofollow" href="" title="Facebook"><i class="icon-lg ion-social-snapchat-outline"></i></a></li>
                     </ul>
                 </div>
             </div>
             <br>
-            <span class="pull-right text-muted small"><a href="http://bootstrap4.guide">Made by Themes.guide</a> ©2015-2016 Company</span>
+            <span class="pull-right text-muted small"><a href="http://bootstrap4.guide">Todos os direitos resevados </a> © 2015-2016 <a href="http://getstudio.net" target="blanck">GetSudio.net</a></span>
         </div>
     </footer>

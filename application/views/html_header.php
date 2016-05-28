@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
 
-    <title>Starter Template for Bootstrap</title>
+    <title>Achei os churros</title>
 
     <?php
         echo link_tag('dist/css/bootstrap.min.css') . //Bootstrap core
