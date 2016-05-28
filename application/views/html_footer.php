@@ -1,11 +1,14 @@
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="assets/js/vendor/jquery.min.js"><\/script>')</script>
-    <script src="<?=base_url('dist/js/bootstrap.min.js');?>"></script>
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="<?=base_url('assets/js/ie10-viewport-bug-workaround.js');?>"></script>
-  </body>
+   <!-- Bootstrap JS -->
+    <!-- jQuery Load -->
+    <script src="<?=base_url('assets/js/jquery-min.js');?>"></script>
+    <!-- Bootstrap -->
+    <script src="<?=base_url('assets/js/bootstrap.min.js');?>"></script>
+    <!--WOW Scroll Spy-->
+    <script src="<?=base_url('assets/js/wow.js');?>"></script>
+    <!-- Smooth Scroll -->
+    <script src="<?=base_url('assets/js/smooth-on-scroll.js');?>"></script>
+    <script src="<?=base_url('assets/js/smooth-scroll.js');?>"></script>
+    <!-- All JS plugin Triggers -->
+    <script src="<?=base_url('assets/js/main.js');?>"></script>
+    </body>
 </html>
