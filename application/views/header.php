@@ -1,26 +1,29 @@
- <body>
-    <!-- HEADER -->
-<header id="home">
-      <!-- Color over Image -->
-      <div class="color-overlay">
-
-        <!-- navbar log -->
-        <div class="navbar logo-nav">
+      <nav id="topNav" class="navbar navbar-default navbar-fixed-top">
           <div class="container">
-            <div class="row">
-              <div class="col-sm-6 col-md-6 col-xs-4">
-                <div class="navbar-header">
-                  <div class="logo">
-                    <a href=""><img src="assets/img/logo.png" alt=""></a>
-                  </div>
-                </div>
+              <button class="navbar-toggler hidden-md-up pull-right" type="button" data-toggle="collapse" data-target="#collapsingNavbar">
+                  ☰
+              </button>
+              <a class="navbar-brand page-scroll" href="#first">Bootstrap 4</a>
+              <div class="collapse navbar-toggleable-sm" id="collapsingNavbar">
+                  <ul class="nav navbar-nav">
+                      <li class="nav-item">
+                          <a class="nav-link page-scroll active" href="#one">Cards</a>
+                      </li>
+                      <li class="nav-item">
+                          <a class="nav-link page-scroll" href="#two">Flexbox</a>
+                      </li>
+                      <li class="nav-item">
+                          <a class="nav-link page-scroll" href="#three">5 Tiers</a>
+                      </li>
+                      <li class="nav-item">
+                          <a class="nav-link page-scroll" href="#four">More</a>
+                      </li>
+                  </ul>
+                  <ul class="nav navbar-nav pull-xs-right">
+                      <li class="nav-item">
+                          <a class="nav-link page-scroll" data-toggle="modal" title="A free Bootstrap theme" href="#aboutModal">About</a>
+                      </li>
+                  </ul>
               </div>
-              <div class="col-sm-6 col-md-6 col-xs-8">
-                <div class="pull-right">
-                  <h2><i class="fa fa-phone"></i>+6698545 <a href="http://landingbow.com" title="Bootstrap Landing Page">Toll Free</a></h2>
-                </div>
-              </div>
-            </div>
           </div>
-        </div>
-
+      </nav>
